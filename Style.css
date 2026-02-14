@@ -1,0 +1,51 @@
+header{
+  background-color:pink;
+  color:red;
+  font-family:georgia;
+}
+
+main h1{
+  background-color:pink;
+  color:pink;
+  text-align:center;
+  font-family:georgia;
+}
+
+ h4{
+  background-color:pink;
+  color:white;
+  font-family:georgia;
+  text-align:center;
+}
+
+.lovealice{
+  background-color:pink;
+  color:red;
+  text-align:justify;
+  font-family:georgia;
+}
+
+td{
+  background-color:pink;
+  text-align:justify;
+  font-family:georgia;
+  font-size:20px;
+  color:white;
+ }
+ 
+ footer p{
+   background-color:pink;
+   color:white;
+ }
+ 
+ main{
+   background-color:pink;
+ }
+ 
+ footer{
+   background-color:pink;
+ }
+ 
+ marquee{
+   color:red
+ }
